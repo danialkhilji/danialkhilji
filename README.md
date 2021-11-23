@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danialkhilji
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning applications of Spiking Neural Networks
+- 🌱 I’m currently doing a data sciece internship at Choreograph (A WPP Company).
 - 📫 How to reach me: danialkhilji@yahoo.com
 
 <!---
