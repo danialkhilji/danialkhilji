@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danialkhilji
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently doing a Data Scientist at Choreograph (WPP Company).
+- 👀 I’m interested in Data Science and AI Agentic products
+- 🌱 I’m currently a Data Scientist at WPP
 - 📫 How to reach me: danialkhilji@yahoo.com
 
 <!---
