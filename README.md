@@ -19,6 +19,6 @@ class Danial:
 
 ## 🛠️ Projects I'm Building 🛠️
 
-**🏠 [HomeOS](https://github.com/danialkhilji/HomeOS)** — Self-hosted family OS for a kitchen touchscreen — tasks, shopping lists, prayer times | ⚡ FastAPI · ⚛️ React · 🗄️ SQLite · 🐳 Docker |
+**🏠 [HomeOS](https://github.com/danialkhilji/HomeOS)** — Self-hosted family OS for a kitchen touchscreen — tasks, shopping lists, prayer times | ⚡ FastAPI · ⚛️ React · 🗄️ SQLite · 🐳 Docker
 
-**🤖 [Jarvis](https://github.com/danialkhilji/Jarvis)** — macOS AI desktop assistant with smart model routing and tool use | 🐍 Python · 🖥️ CustomTkinter · ⚡ FastAPI · 🧬 Agno |
+**🤖 [Jarvis](https://github.com/danialkhilji/Jarvis)** — macOS AI desktop assistant with smart model routing and tool use | 🐍 Python · 🖥️ CustomTkinter · ⚡ FastAPI · 🧬 Agno
