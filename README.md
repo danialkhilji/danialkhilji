@@ -17,12 +17,12 @@ class Danial:
 - 🤖 **Agentic AI** — multi-agent systems with LangGraph, MCP servers, automated research pipelines
 - 📊 **Applied ML** — end-to-end pipelines from experimentation to production
 
-## 🛠️ Projects I'm Building
+## 🛠️ Projects I'm Building 🛠️
 
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 🏠 | [**HomeOS**](https://github.com/danialkhilji/HomeOS) | Self-hosted family OS for a kitchen touchscreen — tasks, shopping lists, prayer times | ⚡ FastAPI · ⚛️ React · 🗄️ SQLite · 🐳 Docker |
-| 🤖 | [**Jarvis**](https://github.com/danialkhilji/Jarvis) | macOS AI desktop assistant with smart model routing and tool use | 🐍 Python · 🖥️ CustomTkinter · ⚡ FastAPI · 🧬 Agno |
+**🏠 [HomeOS](https://github.com/danialkhilji/HomeOS)** — Self-hosted family OS for a kitchen touchscreen — tasks, shopping lists, prayer times | ⚡ FastAPI · ⚛️ React · 🗄️ SQLite · 🐳 Docker |
+
+**🤖 [Jarvis](https://github.com/danialkhilji/Jarvis)** — macOS AI desktop assistant with smart model routing and tool use | 🐍 Python · 🖥️ CustomTkinter · ⚡ FastAPI · 🧬 Agno |
+
 
 ## 🔗 Connect
 
