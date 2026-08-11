@@ -22,11 +22,3 @@ class Danial:
 **🏠 [HomeOS](https://github.com/danialkhilji/HomeOS)** — Self-hosted family OS for a kitchen touchscreen — tasks, shopping lists, prayer times | ⚡ FastAPI · ⚛️ React · 🗄️ SQLite · 🐳 Docker |
 
 **🤖 [Jarvis](https://github.com/danialkhilji/Jarvis)** — macOS AI desktop assistant with smart model routing and tool use | 🐍 Python · 🖥️ CustomTkinter · ⚡ FastAPI · 🧬 Agno |
-
-
-## 🔗 Connect
-
-[![🌐 Portfolio](https://img.shields.io/badge/🌐_Portfolio-4cc9f0?style=flat&logoColor=white)](https://danialkhilji.github.io/portfolio/)
-[![💼 LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danialkhilji/)
-[![✍️ Medium](https://img.shields.io/badge/✍️_Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@khiljidanial)
-[![🔬 ResearchGate](https://img.shields.io/badge/🔬_ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Danial-Khilji)
