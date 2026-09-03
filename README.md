@@ -2,6 +2,8 @@
 
 **🧪 Data Scientist @ [WPP](https://www.wpp.com/)** · Building intelligent systems at the intersection of structured knowledge, retrieval, and AI agents.
 
+🌐 [danialkhilji.github.io/portfolio](https://danialkhilji.github.io/portfolio/)
+
 ```python
 class Danial:
     role      = "Data Scientist | AI Engineer"
